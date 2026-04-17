@@ -15,6 +15,6 @@
     "@astrojs/sitemap": "^3.2.1",
     "astro": "^4.16.13",
     "@astrojs/check": "^0.9.4",
-    "typescript": "^5.7.2"
+    "typescript": "^6.0.0"
   }
 }
